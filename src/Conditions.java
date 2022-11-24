@@ -1,4 +1,4 @@
-public class Ex03 {
+public class Conditions {
 
     public static void main(String[] args) {
         double x = Double.parseDouble(args[1]);
