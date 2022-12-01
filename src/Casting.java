@@ -10,5 +10,6 @@ public class Casting {
 
         Scanner scanner = new Scanner(System.in);
         double j = scanner.nextDouble();
+        System.out.println(j);
     }
 }
